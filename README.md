@@ -11,3 +11,4 @@ RentX is a mobile based house rental application developed using Flutter Framewo
 ## Check ScreenShots of this project
 
 ![Screenshot_20230102_141351](https://user-images.githubusercontent.com/121783685/210209676-c8e18164-e004-44a7-b611-a9eb542ef269.png)
+![Screenshot_20230102_141648](https://user-images.githubusercontent.com/121783685/210209864-0b55ba7e-83ce-4e55-9bd5-ece241d0e90b.png)
