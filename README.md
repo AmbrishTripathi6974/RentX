@@ -1,4 +1,4 @@
-# flutter_application_2
+## RentX Application FLutter
 
 A new Flutter project.
 
